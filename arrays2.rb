@@ -69,7 +69,7 @@ n = 5
   n -= 1
 end
 
-10. Write a times loop that prints the even numbers from 2 to 10.
+# 10. Write a times loop that prints the even numbers from 2 to 10.
 
 n = 2
 5.times do 
